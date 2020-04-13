@@ -1,4 +1,4 @@
-# WinPE Creation Tool
+# Delete Double Space
 
 DDS (Delete Double Space) is a utility that removes a rather recurring problem on keyboards : double space.
 
