@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### ⛏ Import
 
-To get started, download the project on GitHub. Unzip the folder somewhere on your computer. Then open the "WinPE_Creation_Tool.sln" file with Visual Studio 2017. There you go. The project is open and you can edit it at your convenience.
+To get started, download the project on GitHub. Unzip the folder somewhere on your computer. Then open the "DeleteDoubleSpace.sln" file with Visual Studio 2017. There you go. The project is open and you can edit it at your convenience.
 
 ## 💿 Deployment
 
