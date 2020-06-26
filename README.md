@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/deletedoublespace/badge)](https://www.codefactor.io/repository/github/brunopaiva15/deletedoublespace)
+
 # Delete Double Space
 
 DDS (Delete Double Space) is a utility that removes a rather recurring problem on keyboards : double space.
